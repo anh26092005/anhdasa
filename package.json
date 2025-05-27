@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anh26092005/nodejs.git"
+  },
+  "keywords": [
+    "hoanganh"
+  ],
+  "author": "anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anh26092005/nodejs/issues"
+  },
+  "homepage": "https://github.com/anh26092005/nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
