@@ -24,7 +24,8 @@
     "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
-    "express-handlebars": "^8.0.3"
+    "express-handlebars": "^8.0.3",
+    "mysql2": "^3.14.1"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
